@@ -10,7 +10,7 @@ Current features:
 -Easy to use
 -Configurable
 
-Command | 
+Command | null
 ------------ | -------------
 /ca | null
 Content in the first column | Content in the second colum
